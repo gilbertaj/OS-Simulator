@@ -1,0 +1,12 @@
+85
+184
+Calculate 70
+IO Keyboard 2
+Calculate 80
+Out
+Yield
+Yield
+IO Keyboard 2
+Out
+Calculate 30
+Stop

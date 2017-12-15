@@ -1,0 +1,9 @@
+95
+223
+Calculate 65
+Out
+Calculate 80
+Out
+Calculate 75
+Out
+Stop
